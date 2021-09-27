@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.alert-notifications-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
