@@ -1,0 +1,33 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 400px;
+  padding: 20px;
+
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.loginBtn {
+  background-color: #3d86d9;
+  border: 0px;
+  border-radius: 8px;
+  padding: 10px 20px;
+  color: white;
+  font-size: 16px;
+}
+.heading {
+  text-align: center;
+  font-size: 22px;
+  margin: 40px 0;
+}
+.app-name {
+  color: #840d8f;
+  font-size: 24px;
+}
